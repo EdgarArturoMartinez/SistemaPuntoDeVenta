@@ -1,0 +1,9 @@
+C:\Desarrollo\0.Prototypes\16.C#\Udemy_PuntoDeVenta\SistemaPuntoDeVenta\SistemaPuntoDeVentas\bin\Debug\SistemaPuntoDeVentas.exe.config
+C:\Desarrollo\0.Prototypes\16.C#\Udemy_PuntoDeVenta\SistemaPuntoDeVenta\SistemaPuntoDeVentas\bin\Debug\SistemaPuntoDeVentas.exe
+C:\Desarrollo\0.Prototypes\16.C#\Udemy_PuntoDeVenta\SistemaPuntoDeVenta\SistemaPuntoDeVentas\bin\Debug\SistemaPuntoDeVentas.pdb
+C:\Desarrollo\0.Prototypes\16.C#\Udemy_PuntoDeVenta\SistemaPuntoDeVenta\SistemaPuntoDeVentas\obj\Debug\SistemaPuntoDeVentas.csprojAssemblyReference.cache
+C:\Desarrollo\0.Prototypes\16.C#\Udemy_PuntoDeVenta\SistemaPuntoDeVenta\SistemaPuntoDeVentas\obj\Debug\SistemaPuntoDeVentas.Form1.resources
+C:\Desarrollo\0.Prototypes\16.C#\Udemy_PuntoDeVenta\SistemaPuntoDeVenta\SistemaPuntoDeVentas\obj\Debug\SistemaPuntoDeVentas.Properties.Resources.resources
+C:\Desarrollo\0.Prototypes\16.C#\Udemy_PuntoDeVenta\SistemaPuntoDeVenta\SistemaPuntoDeVentas\obj\Debug\SistemaPuntoDeVentas.csproj.GenerateResource.cache
+C:\Desarrollo\0.Prototypes\16.C#\Udemy_PuntoDeVenta\SistemaPuntoDeVenta\SistemaPuntoDeVentas\obj\Debug\SistemaPuntoDeVentas.exe
+C:\Desarrollo\0.Prototypes\16.C#\Udemy_PuntoDeVenta\SistemaPuntoDeVenta\SistemaPuntoDeVentas\obj\Debug\SistemaPuntoDeVentas.pdb
